@@ -155,6 +155,13 @@ while True:
 
 ### RARP
 
+### rarp_server.py
+
+<img width="753" height="101" alt="image" src="https://github.com/user-attachments/assets/30f608cf-c1a8-42b0-8a29-07d47384a7cb" />
+
+
+### rarp_client.py
+<img width="737" height="115" alt="image" src="https://github.com/user-attachments/assets/75a27a9b-01ae-4436-b3e2-ecbbfcbf6fea" />
 
 
 
